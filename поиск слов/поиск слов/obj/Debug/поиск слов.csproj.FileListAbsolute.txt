@@ -1,0 +1,7 @@
+C:\Users\магазин\source\repos\поиск слов\поиск слов\bin\Debug\поиск слов.exe.config
+C:\Users\магазин\source\repos\поиск слов\поиск слов\bin\Debug\поиск слов.exe
+C:\Users\магазин\source\repos\поиск слов\поиск слов\bin\Debug\поиск слов.pdb
+C:\Users\магазин\source\repos\поиск слов\поиск слов\obj\Debug\поиск слов.csprojAssemblyReference.cache
+C:\Users\магазин\source\repos\поиск слов\поиск слов\obj\Debug\поиск слов.csproj.CoreCompileInputs.cache
+C:\Users\магазин\source\repos\поиск слов\поиск слов\obj\Debug\поиск слов.exe
+C:\Users\магазин\source\repos\поиск слов\поиск слов\obj\Debug\поиск слов.pdb
